@@ -1,0 +1,1 @@
+This project is a classic Tic Tac Toe game built using HTML, CSS, and JavaScript. It features a simple and interactive interface where two players can take turns to mark 'X' or 'O', with win and draw conditions clearly displayed. The game includes a reset button to start a new round once the game is over.
